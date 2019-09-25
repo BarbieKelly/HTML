@@ -1,0 +1,59 @@
+WHAT IS HTML
+	-hypertext markup language
+	-<html></html> opening and closing tag
+	- <img /> self closing tag
+	- <!DOCTYPE html> self closing tag
+
+WHAT IS THE LAYOUT OF AN HTML DOCUMENT
+	<!DOCTYPE html>
+	<html>
+		<head>
+			// meta data goes here
+		</head>
+		<body>
+			// website goes here
+		</body>
+	</html>
+
+
+COMMON TAGS
+	DIVIDERS
+		<div> </div> is nothing more than a container and can contain text or other elements
+	<p> </p>
+	<b> </b>
+	<i> </i>
+	<h1></h1> --> <h6></h6>
+
+LISTS
+	<ul></ul> unordered list
+	<ol></ol> ordered list
+	<li></li> list item (needed for both ul's and ol's)
+	* li's should be children of ul's or ol's
+
+SELF CLOSING TAGS
+	<br>	creates empty space
+	<hr>	horizontal rule - inserts a line
+
+ELEMENTS CAN HAVE ATTRIBUTES
+	<a href = "https://google.com"> </a>
+		*href is attribute, ". . ." is value
+		* link to google
+	<img src="/images/logo.jpg"/>
+		*src is attribute, value is ". . ."
+
+THERE ARE 189 POSSIBLE ATTRIBUTES
+	*id="elementId"			--> must be unique
+	*class = "elementClass"
+	*onclick = "function()"
+	*href = ". . .com"
+	*src = ". . .png"
+	*width="100"
+	*height=""
+	*data-*="yourCustomAttribute"
+
+<a> tags
+	*anchor tags are links
+
+
+
+
